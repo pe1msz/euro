@@ -1,0 +1,10 @@
+--- header-menu.org	2023-02-14 14:03:25.987195121 +0100
++++ header-menu.inc	2023-02-14 14:07:25.440081580 +0100
+@@ -29,6 +29,7 @@
+     <a href="fulledit_cron.php" style="color: #ffffff;">System Cron</a> |
+     <a href="fulledit_rssidat.php" style="color: #ffffff;">RSSI Dat</a>
+     &emsp;<b>Tools:</b>
++    <a href="/admin/fw/index.php" style="color: #ffffff;">FW</a> |
+     <a href="edit_dashboard.php" style="color: #ffffff;">CSS Tool</a> |
+     <a href="ssh_access.php" style="color: #ffffff;">SSH Access</a>
+   </p>
